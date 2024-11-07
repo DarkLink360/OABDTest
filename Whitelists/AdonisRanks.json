@@ -5,7 +5,7 @@
 	},
 	"Admins": {
 		"Level": 200,
-		"Users": ["DarkLink366"]
+		"Users": []
 	},
 	"HeadAdmins": {
 		"Level": 300,
@@ -13,7 +13,7 @@
 	},
 	"Developers": {
 		"Level": 899,
-		"Users": ["cyozna", "Vamps_Ii", "tawetg777", "DaboidumLOLez", "Snj2s", "Tidyen"]
+		"Users": ["cyozna", "Vamps_Ii", "tawetg777", "DaboidumLOLez", "Snj2s", "Tidyen", "DarkLink366"]
 	},
 	"Creators": {
 		"Level": 900,
