@@ -5,7 +5,7 @@
 	},
 	"Admins": {
 		"Level": 200,
-		"Users": []
+		"Users": ["DarkLink366"]
 	},
 	"HeadAdmins": {
 		"Level": 300,
